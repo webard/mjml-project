@@ -1,0 +1,6 @@
+/tmp/*
+!/tmp/.gitkeep
+/vendor
+/node_modules
+/composer.lock
+/package-lock.json

@@ -1,0 +1,19 @@
+{
+    "name": "webard/mjml-project",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Webard\\MjmlProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "webard",
+            "email": "mail@webard.me"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "spatie/mjml-php": "^1.1"
+    }
+}
